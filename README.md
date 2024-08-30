@@ -71,12 +71,4 @@ flight-management-system/
 │   │   │   │   │   ├── notifications/         # Observer Pattern implementation
 │   │   │   │   │   ├── management/            # Management classes
 │   │   │   │   │   ├── Main.java              # Main entry point
-│   ├── test/                                  # Unit tests
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   ├── NadavShabtai/
-│   │   │   │   │   ├── models/                # Tests for models
-│   │   │   │   │   ├── search/                # Tests for search strategies
-│   │   │   │   │   ├── hierarchy/             # Tests for composite pattern
-│   │   │   │   │   ├── notifications/         # Tests for observer pattern
 ├── README.md                                  # Detailed README file
